@@ -23,7 +23,8 @@ c.mech(r)
 ```
 
 ## Output
-https://github.com/mdzubaircse2008/Module-4/blob/main/m41.png
+<img width="1701" height="732" alt="image" src="https://github.com/user-attachments/assets/2e6c1a27-0d5c-4b97-bd6c-aac784d70c6a" />
+
 
 
 ## Result
